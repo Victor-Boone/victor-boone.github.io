@@ -22,7 +22,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Victor Boone, PhD student at the Université Grenoble Alpes in the [POLARIS](https://www.inria.fr/fr/polaris) team as well as a teacher assistant at the UGA. 
+
+I am Victor Boone, Post-Doc at the Université Grenoble Alpes in the [POLARIS](https://www.inria.fr/fr/polaris) team as well as a teacher assistant at the UGA. 
 My work focuses on Reinforcement Learning, Multi-Armed Bandits and Game Theory.
 
 You can join me via email `victor.boone@univ-grenoble-alpes.fr`. 
