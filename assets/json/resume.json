@@ -15,13 +15,11 @@
       "region": ""
     },
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "TotallyAFakeAccount",
-        "url": "https://twitter.com/404"
-      }
     ]
   },
+  "foo": [
+    "name": "Université Grenoble Alpes",
+  ],
   "work": [
     {
       "name": "Université Grenoble Alpes",
