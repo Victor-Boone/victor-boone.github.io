@@ -8,7 +8,7 @@
     - name: Languages
       value: French, English
     - name: Email
-      value: victor.boone@inria.fr, boonevv@gmail.com
+      value: victor.boone@irit.fr, boonevv@gmail.com
 
 - title: Education
   type: time_table
@@ -25,8 +25,11 @@
   type: time_table
   contents:
     - title: Post Doc
-      institution: Université Grenoble Alpes
-      year: 2024
+      institution: CNRS, INRIA, Université Grenoble Alpes
+      year: 2025
+    - title: Post Doc
+      institution: CNRS, IRIT
+      year: 2025-2026
 
 
 - title: Academic Interests
