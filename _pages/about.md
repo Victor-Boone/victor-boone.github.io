@@ -11,8 +11,8 @@ profile:
   image: tronche_reworked.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Somewhere in Toulouse...</p>
-    <p>I will tell you where soon!</p>
+    <p>In Toulouse, ENSEEIHT.</p>
+    <p>Sometimes I also go to LAAS!</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
